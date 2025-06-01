@@ -1,0 +1,51 @@
+# Ignore list for KiCAD Projects
+
+# Temporary files
+*.000
+*.bak
+*.bck
+*.kicad_pcb-bak
+*.sch-bak
+*.kicad_sch-bak
+*~
+_autosave-*
+*.tmp
+*.save.pro
+*.save.kicad_pcb
+fp-info-cache
+
+# Netlist files (exported from Eeschema)
+*.net
+
+# Autorouter files (exported from Pcbnew)
+*.dsn
+*.ses
+
+# === Additional Backup & Compressed Files ===
+
+# Ignore backup/compressed files globally
+*.zip
+*.tar
+*.tar.gz
+*.rar
+*.7z
+*.bak
+*.old
+*.tmp
+
+# Ignore entire backup folders if any
+backups/
+*/backups/
+*/backup/
+*/Backup/
+
+# Ignore backup/compressed files inside any backup folder
+backups/*.zip
+backups/*.tar.gz
+backups/*.rar
+backups/*.7z
+backups/*.bak
+
+# Optional: Ignore MacOS/Windows system files
+.DS_Store
+Thumbs.db
