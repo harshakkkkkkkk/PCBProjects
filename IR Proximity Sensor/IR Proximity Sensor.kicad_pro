@@ -529,7 +529,28 @@
         "Signal"
       ]
     },
-    "netclass_patterns": []
+    "netclass_patterns": [
+      {
+        "netclass": "Power",
+        "pattern": "+5V"
+      },
+      {
+        "netclass": "Power",
+        "pattern": "GND"
+      },
+      {
+        "netclass": "Signal",
+        "pattern": "/NON_INV"
+      },
+      {
+        "netclass": "Signal",
+        "pattern": "/INV"
+      },
+      {
+        "netclass": "Signal",
+        "pattern": "/OP"
+      }
+    ]
   },
   "pcbnew": {
     "last_paths": {
