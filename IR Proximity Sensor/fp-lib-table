@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "Potentiometer")(type "KiCad")(uri "C:/Users/harsh/Downloads/3362P-1-103")(options "")(descr ""))
+)
