@@ -1,4 +1,0 @@
-(sym_lib_table
-  (version 7)
-  (lib (name "Switching_Regulator_Design")(type "KiCad")(uri "${KIPRJMOD}/Symbols, Footprints & 3D Models/Switching_Regulator_Design.kicad_sym")(options "")(descr ""))
-)
