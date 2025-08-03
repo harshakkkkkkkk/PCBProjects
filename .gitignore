@@ -13,6 +13,7 @@ _autosave-*
 *.save.pro
 *.save.kicad_pcb
 fp-info-cache
+*.File
 
 # Netlist files (exported from Eeschema)
 *.net
@@ -49,3 +50,7 @@ backups/*.bak
 # Optional: Ignore MacOS/Windows system files
 .DS_Store
 Thumbs.db
+
+# Ignore Cache Files
+fp-*
+sym-*
