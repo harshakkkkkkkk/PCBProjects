@@ -1525,7 +1525,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_1210_3225Metric"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 108.9152 109.22 0)
 			(effects
 				(font
@@ -2196,7 +2196,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Inductor_SMD:L_7.3x7.3_H3.5"
+		(property "Footprint" "Inductor_SMD:L_Walsin_WLFM252009x"
 			(at 176.53 93.98 0)
 			(effects
 				(font
@@ -2492,7 +2492,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_1210_3225Metric"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 88.5952 109.22 0)
 			(effects
 				(font
@@ -2628,7 +2628,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_1210_3225Metric"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 98.7552 109.22 0)
 			(effects
 				(font
